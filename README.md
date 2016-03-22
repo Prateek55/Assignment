@@ -1,5 +1,7 @@
 The file structure for the directory is as follows:
-There are 4 directories:
+
+There are multiple directories:
+
 	1. data: Contain files have list of all the concepts with positive or negative polarity
 		i.   data.xml : Sentic 3.0 XML file but with slight tag renaming for easy reading
 		ii.  negative-words.txt/positve-words.txt : Contain a new set of words with negative/positive polarity downloaded from https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107/blob/master/data/opinion-lexicon-English/
