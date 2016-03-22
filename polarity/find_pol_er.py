@@ -1,6 +1,6 @@
 pos_corpus=[]
 neg_corpus=[]
-err_file=open("error","w")
+err_file=open("../collisions/error","w")
 
 # Function check_pos/neg checks the presence of a neg/pos polarity word in semantics
 # Return 1 if present, else 0
